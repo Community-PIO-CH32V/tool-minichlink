@@ -1,0 +1,17 @@
+{
+  "name": "tool-minichlink",
+  "version": "0.1.0",
+  "description": "minichlink programmer/debugger software",
+  "keywords": [
+    "tools",
+    "uploader",
+    "risc-v"
+  ],
+  "homepage": "https://github.com/cnlohr/ch32v003fun/wiki/Features#minichlink",
+  "license": " MIT",
+  "system": "all",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cnlohr/ch32v003fun"
+  }
+}
