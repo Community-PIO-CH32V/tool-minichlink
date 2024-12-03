@@ -10,8 +10,7 @@
   "homepage": "https://github.com/cnlohr/ch32v003fun/wiki/Features#minichlink",
   "license": " MIT",
   "system": [
-    "darwin_x86_64",
-    "darwin_arm64"
+    "darwin_x86_64"
   ],
   "repository": {
     "type": "git",
